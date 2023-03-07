@@ -18,7 +18,7 @@ I have mastered some of the skills that helped me to become a Front-end web deve
 ## 🏆 Trophy
 
 <p align="left">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=rayhanalshorif133&theme=onestar&row=1&margin-w=15&rank=SSS,SS,S,AAA,AA,A,B,C" />
+  <img alig src="https://github-profile-trophy.vercel.app/?username=FaizulHassan-Rhine&theme=onestar&row=1&margin-w=15&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p>
 
  # 📊 GitHub Stats:
