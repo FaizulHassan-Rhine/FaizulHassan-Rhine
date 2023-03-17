@@ -32,5 +32,3 @@ I have mastered some of the skills that helped me to become a Front-end web deve
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
-
-
