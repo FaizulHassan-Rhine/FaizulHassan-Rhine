@@ -10,7 +10,6 @@ I have mastered some of the skills that helped me to become a Front-end web deve
 
 
 - 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning Redux 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/faizul-hassan) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@FaizulH90208137) 
