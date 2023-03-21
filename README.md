@@ -12,6 +12,11 @@ I have mastered some of the skills that helped me to become a Front-end web deve
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/faizul-hassan) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@FaizulH90208137) 
 
+- 🌱 I’m currently working on **React js, Javascript, CSS , Tailwind CSS**
+
+- 📫 How to reach me **faizulhassan.rien@gmail.com**
+
+
 ## 🏆 Trophy
 
 <p align="left">
