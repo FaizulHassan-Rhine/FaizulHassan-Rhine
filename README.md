@@ -2,7 +2,7 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20Developer%20at%20The%20KOW%20Company;&font=Fira%20Code&center=true&width=840&height=45&weight=700&pause=1000&color=6aa84f&vCenter=true&size=25"></a>
 </p>
-<img src='https://raw.githubusercontent.com/gist/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif' alt='github' width='400' height='200' align='right'>
+<img src='https://raw.githubusercontent.com/gist/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif' alt='github' width='400' height='200' align='right' z-index='999'>
 I have mastered some of the skills that helped me to become a Front-end web developer. I am very dedicated to teamwork and soft skills though I'm a technological person. I am skilled in Html5, CSS3, Tailwind CSS, JavaScript and React.js
 
 # 💻 Tech Stack:
